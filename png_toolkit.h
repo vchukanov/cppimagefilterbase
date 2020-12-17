@@ -3,7 +3,7 @@
 
 #include <string>
 #include <map>
-//#include <memory>
+
 #include "stb_image.h"
 
 struct image_data
